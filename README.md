@@ -27,7 +27,7 @@ Collection Name: logincollections
 
 Once, you have created the Database to store all the user data, you can run the following command in the terminal of the project directory to start the server using nodemon:
 ```bash
-nodemon server/src/index.js
+npm start
 ```
 
 Then, you can paste the following address into your browser to access the LoginSignUp Server:
